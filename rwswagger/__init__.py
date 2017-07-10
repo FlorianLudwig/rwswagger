@@ -7,7 +7,7 @@ import rw.routing
 
 __author__ = """Florian Ludwig"""
 __email__ = 'f.ludwig@greyrook.com'
-__version__ = '0.1.0'
+__version__ = '0.0.1'
 
 
 def setup_yaml():
