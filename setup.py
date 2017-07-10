@@ -24,7 +24,7 @@ test_requirements = [
 
 setup(
     name='rwswagger',
-    version='0.0.1',
+    version='0.1.0',
     description="Generate swagger file from within rueckenwind",
     long_description=readme,
     author="Florian Ludwig",
